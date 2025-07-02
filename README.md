@@ -40,7 +40,6 @@ Process each page one by one.
 
 After each page:
 
-You’re asked: “Do you want to continue with next image?”
 
 Saves every updated image with suffix like _logo.png.
 
